@@ -1,0 +1,7 @@
+torch
+numpy
+scikit-learn
+librosa
+soundfile
+requests
+sounddevice
