@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spoken Digit Recognition System
 
 A lightweight, real-time spoken digit recognition system built for the CloudWalk R&D challenge. Achieves **99.7% accuracy** with **sub-millisecond inference** using a compact 1D CNN architecture.
@@ -362,3 +363,6 @@ spoken-digit-recognition/
 4. **Test real-time**: `python live_mic_demo.py`
 
 **No complex setup required** - system handles dataset download and model training automatically.
+=======
+# LLM_CODING_CHALLENGE
+>>>>>>> ffdd04a99d45b0b6adbe7d6360902d38983592e8
